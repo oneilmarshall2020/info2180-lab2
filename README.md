@@ -1,2 +1,5 @@
-# info2180-lab2
-Lab 2 for Web Dev 1
+# INFO2180 Lab 2
+
+This is Lab 2 for Oneil Marshall
+
+

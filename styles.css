@@ -1,0 +1,29 @@
+header {
+  background-color: #63B3ED;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 35px 40px;
+}
+
+header img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+header h1,p {
+  color: #fff
+}
+
+.blog1 img {
+  width: 100px;
+  float: right;
+  margin: 10px;
+}
+
+.blog1 p {
+  color:  #111;
+}
